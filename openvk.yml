@@ -1,8 +1,8 @@
 openvk:
     debug: true
     appearance:
-        name: "OpenVK"
-        motd: "Yet another OpenVK instance"
+        name: "SunulOVK"
+        motd: "блять что такого смешного бы сюда поставить"
     
     preferences:
         femaleGenderPriority: true
@@ -12,7 +12,7 @@ openvk:
             mode: "basic"
             api:
                 maxFilesPerDomain: 10
-                maxFileSize: 25000000
+                maxFileSize: 2500000
         shortcodes:
             minLength: 3 # won't affect existing short urls or the ones set via admin panel
             forbiddenNames:
@@ -25,7 +25,7 @@ openvk:
         apps:
             withdrawTax: 8
         security:
-            requireEmail: false
+            requireEmail: true
             requirePhone: false
             forcePhoneVerification: false
             forceEmailVerification: false
@@ -42,7 +42,7 @@ openvk:
             enable: true
             disablingReason: ""
         support:
-            supportName: "Agent"
+            supportName: "SunulOVK Team members"
             adminAccount: 1 # Change this ok
             fastAnswers:
                 - "This is a list of quick answers to common questions for support. Post your responses here and agents can send it quickly with just 3 clicks"
@@ -91,10 +91,13 @@ openvk:
             links:
                 - name: "@left_menu_donate"
                   url: "/donate"
+                - name: "чаларис"
+                  url: "https://t.me/lolpablic"
         about:
             links:
-                - name: "Link caption"
-                  url: "https://example.org/"
+                - name: "Epmakob.Web1337"
+                  url: "https://epmakob.web1337.net"
+
         adPoster:
             enable: false
             src: "https://example.org/ad_poster.jpeg"
@@ -135,7 +138,7 @@ openvk:
             database:
                 dsn: "mysql:unix_host=localhost;dbname=openvk-eventdb" # or unix_socket=/tmp/mysql.sock
                 user: "root"
-                password: "DATABASE_PASSWORD"
+                password: "Porn1111"
         notificationsBroker:
             enable: false
             kafka:
