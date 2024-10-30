@@ -1,4 +1,4 @@
-# <img align="right" src="/Web/static/img/logo_shadow.png" alt="openvk" title="openvk" width="15%">OpenVK
+# SunulOVK
 
 _[Русский](README_RU.md)_
 
